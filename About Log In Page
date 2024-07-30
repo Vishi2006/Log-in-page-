@@ -1,0 +1,6 @@
+# Log-in-page
+This project features a straightforward login page GUI designed using the Tkinter library in Python.
+The interface includes text fields for the user to enter their email and password, along with a "Login Here" button to submit the information. 
+Upon entering the credentials, the application validates the input against predefined login details and displays a success or error message accordingly. 
+The layout is clean and user-friendly, with labels and entry fields clearly arranged for ease of use. 
+This project demonstrates the fundamental principles of creating a functional graphical user interface in Python, highlighting Tkinter's capability to handle basic user authentication tasks in a simple and effective manner.
